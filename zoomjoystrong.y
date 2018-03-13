@@ -1,4 +1,4 @@
-//Worked Colton Bates.
+//Worked with Colton Bates.
 
 %{
 	#include <stdio.h>
